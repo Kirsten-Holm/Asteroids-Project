@@ -1,1 +1,2 @@
-This repo will contain an asteroids like game made for the boot.dev make asteroids course
+This repo is for the boot.dev asteroids course
+I will also add tinker with some pygame and such here myself
